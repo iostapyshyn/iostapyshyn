@@ -1,4 +1,6 @@
-![iostapyshyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=iostapyshyn&count_private=true&show_icons=true&icon_color=586069&title_color=0366d6&hide_title=false)
+![iostapyshyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=iostapyshyn&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6&hide_title=false&include_all_commits=true&hide_rank=true)
+
+![iostapyshyn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iostapyshyn&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **iostapyshyn/iostapyshyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
